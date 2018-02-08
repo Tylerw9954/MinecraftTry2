@@ -157,3 +157,64 @@
 [05:19:47] [Server thread/INFO]: CaptainPrice151 joined the game
 [05:30:52] [Server thread/INFO]: CaptainPrice151 lost connection: Disconnected
 [05:30:52] [Server thread/INFO]: CaptainPrice151 left the game
+[09:11:55] [User Authenticator #628/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[09:11:55] [Server thread/INFO]: Fur[/137.155.240.228:30462] logged in with entity id 13718912 at (1569.440368873655, 77.98706138936093, -2344.0165556303155)
+[09:11:55] [Server thread/INFO]: Fur joined the game
+[09:12:15] [Server thread/INFO]: [Fur: Teleported Fur to 1.5, 100.0, 1.5]
+[09:13:32] [Server thread/INFO]: Fur lost connection: Disconnected
+[09:13:32] [Server thread/INFO]: Fur left the game
+[09:15:23] [User Authenticator #629/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[09:15:23] [Server thread/INFO]: Fur[/137.155.240.228:27849] logged in with entity id 13719758 at (-12.220309799211861, 90.59365375184262, -144.74686038700997)
+[09:15:23] [Server thread/INFO]: Fur joined the game
+[09:15:29] [Server thread/INFO]: [Fur: Teleported Fur to 1.5, 100.0, 1.5]
+[09:16:06] [Server thread/INFO]: [Fur: Set the time to 1000]
+[09:16:19] [Server thread/INFO]: Fur lost connection: Disconnected
+[09:16:19] [Server thread/INFO]: Fur left the game
+[09:24:55] [User Authenticator #630/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[09:24:56] [Server thread/INFO]: Fur[/137.155.240.228:33508] logged in with entity id 13719873 at (1.5, 134.86933268158276, 1.5)
+[09:24:56] [Server thread/INFO]: Fur joined the game
+[09:26:02] [Server thread/INFO]: [Fur: Set own game mode to Creative Mode]
+[09:26:58] [Server thread/INFO]: Fur lost connection: Disconnected
+[09:26:58] [Server thread/INFO]: Fur left the game
+[09:29:16] [User Authenticator #631/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[09:29:16] [Server thread/INFO]: Fur[/137.155.240.228:11962] logged in with entity id 13724579 at (-285.5983848258, 97.0, 11.064873822806895)
+[09:29:16] [Server thread/INFO]: Fur joined the game
+[09:33:59] [Server thread/WARN]: Fur moved too quickly! -10.186650654747154,0.0,-2.411250201362236
+[09:34:46] [Server thread/INFO]: Fur fell out of the world
+[09:34:46] [Server thread/INFO]: [Fur: Killed Fur]
+[09:38:21] [Server thread/WARN]: Fur moved too quickly! 8.045660650323384,0.11583097129097553,-7.320262790251746
+[09:39:01] [Server thread/WARN]: Fur moved too quickly! -0.3294463472592497,-13.388918647426578,0.19010755820988834
+[09:39:07] [Server thread/INFO]: You must specify which player you wish to perform this action on.
+[09:39:16] [Server thread/INFO]: Set Fur's game mode to Spectator Mode
+[09:40:23] [Server thread/INFO]: Fur lost connection: Disconnected
+[09:40:23] [Server thread/INFO]: Fur left the game
+[09:42:29] [User Authenticator #632/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[09:42:29] [Server thread/INFO]: Fur[/137.155.240.228:51264] logged in with entity id 13804732 at (-210.7515449223684, 73.68134759937358, -407.2710663247517)
+[09:42:29] [Server thread/INFO]: Fur joined the game
+[09:47:07] [Server thread/INFO]: <Fur> tp 1 100 1
+[09:47:22] [Server thread/INFO]: [Fur: Teleported Fur to 1.5, 100.0, 1.5]
+[09:49:09] [Server thread/INFO]: [Fur: Set own game mode to Spectator Mode]
+[09:49:14] [Server thread/INFO]: [Fur: Set own game mode to Adventure Mode]
+[09:49:19] [Server thread/INFO]: Fur fell from a high place
+[09:56:41] [Server thread/INFO]: Fur lost connection: Disconnected
+[09:56:41] [Server thread/INFO]: Fur left the game
+[10:00:34] [User Authenticator #633/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[10:00:35] [Server thread/INFO]: Fur[/137.155.240.228:21785] logged in with entity id 13814378 at (-95.70991120418505, 76.0, -86.81771438884141)
+[10:00:35] [Server thread/INFO]: Fur joined the game
+[10:00:57] [Server thread/INFO]: [Fur: Set own game mode to Spectator Mode]
+[10:01:27] [Server thread/INFO]: Fur lost connection: Disconnected
+[10:01:27] [Server thread/INFO]: Fur left the game
+[10:03:45] [User Authenticator #634/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[10:03:45] [Server thread/INFO]: Fur[/137.155.240.228:52536] logged in with entity id 13815137 at (-269.6773743132729, 41.84334031232666, -307.8726626558499)
+[10:03:45] [Server thread/INFO]: Fur joined the game
+[10:06:15] [Server thread/INFO]: <Fur> wda
+[10:06:36] [Server thread/INFO]: Fur lost connection: Disconnected
+[10:06:36] [Server thread/INFO]: Fur left the game
+[10:09:32] [User Authenticator #635/INFO]: UUID of player Fur is 06c16e2a-f8ef-47f2-8b3b-46e64217c872
+[10:09:32] [Server thread/INFO]: Fur[/137.155.240.228:5319] logged in with entity id 13816091 at (-213.51217477084015, 63.9565680334845, -172.92569481647638)
+[10:09:32] [Server thread/INFO]: Fur joined the game
+[10:09:56] [Server thread/INFO]: [Fur: Teleported Fur to 1.5, 100.0, 1.5]
+[10:10:49] [Server thread/INFO]: Fur lost connection: Disconnected
+[10:10:49] [Server thread/INFO]: Fur left the game
+[10:14:06] [Server thread/INFO]: Saving...
+[10:14:06] [Server thread/INFO]: Saved the world
